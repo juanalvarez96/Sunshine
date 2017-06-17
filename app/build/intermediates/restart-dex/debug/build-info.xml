@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="26276404042355" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build timestamp="26251049518297" >
+        <artifact
+            location="/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="26276404042355" />
+
+</instant-run>

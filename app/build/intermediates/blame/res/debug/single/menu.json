@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/menu/detail.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/src/main/res/menu/detail.xml"
+    },
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/menu/forecastfragment.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/src/main/res/menu/forecastfragment.xml"
+    }
+]

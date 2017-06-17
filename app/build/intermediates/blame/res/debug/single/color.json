@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/juanalvarez/Google Drive/ANDROID_WORKSPACE_DRIVE/GoogleCourse/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
